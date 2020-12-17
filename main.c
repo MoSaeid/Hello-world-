@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 int main()
 {
-   // QWERTY UIOP ASDFGHJKL
-   printf("Hello World!");
+   // Print Hello, World! in the console
+   printf("Hello, World!");
 }
